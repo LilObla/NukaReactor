@@ -1,0 +1,16 @@
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\bin\Debug\net5.0\NukaReactor.exe
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\bin\Debug\net5.0\NukaReactor.deps.json
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\bin\Debug\net5.0\NukaReactor.runtimeconfig.json
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\bin\Debug\net5.0\NukaReactor.runtimeconfig.dev.json
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\bin\Debug\net5.0\NukaReactor.dll
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\bin\Debug\net5.0\ref\NukaReactor.dll
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\bin\Debug\net5.0\NukaReactor.pdb
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\obj\Debug\net5.0\NukaReactor.csprojAssemblyReference.cache
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\obj\Debug\net5.0\NukaReactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\obj\Debug\net5.0\NukaReactor.AssemblyInfoInputs.cache
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\obj\Debug\net5.0\NukaReactor.AssemblyInfo.cs
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\obj\Debug\net5.0\NukaReactor.csproj.CoreCompileInputs.cache
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\obj\Debug\net5.0\NukaReactor.dll
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\obj\Debug\net5.0\ref\NukaReactor.dll
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\obj\Debug\net5.0\NukaReactor.pdb
+C:\Users\79143\source\repos\NukaReactor\NukaReactor\obj\Debug\net5.0\NukaReactor.genruntimeconfig.cache
