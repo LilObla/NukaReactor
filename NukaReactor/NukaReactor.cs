@@ -25,7 +25,7 @@ namespace nuka
     class Reactor
     {
         private object locker = new object();
-        Int32 temperature = 30;
+        Int32 temperature = 1;
         Int32 operatingtemp = 70;
         Boolean enabled = true;
 
@@ -53,9 +53,9 @@ namespace nuka
                     if (temperature > operatingtemp)
                     {
                         int m = Math.Abs(operatingtemp - temperature);
-                        if (m < 10) temperature -= 1;
-                        else if (m > 10 && m < 20) temperature -= 2;
-                        else if (m > 20) temperature -= 3;
+                        if (m < 10) temperature -= 2;
+                        else if (m > 10 && m < 20) temperature -= 3;
+                        else if (m > 20) temperature -= 4;
                     }
                 }
                 Thread.Sleep(100);
@@ -65,9 +65,8 @@ namespace nuka
         {
             while (enabled || temperature > -1)
             {
-                Console.WriteLine("Текущая температура" + temperature);
+                Console.WriteLine("Текущая температура - " + temperature);
                 if (temperature >= 100)
-    
                 {
                     Console.Clear();
                     Console.WriteLine("Перебор!");
